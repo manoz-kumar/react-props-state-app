@@ -15,8 +15,8 @@ function App() {
         Welcome to Sudhakar's App
       </h1>
       <div style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
-        <Student name="Sudhakar" age={20} />
-        <Student name="Ravi" age={22} />
+        <Student name="Manoz" age={20} />
+        <Student name="Kumar" age={22} />
       </div>
       <Counter />
     </div>
